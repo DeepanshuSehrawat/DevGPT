@@ -18,7 +18,7 @@ function App() {
 
   async function handleClickButton(){
     setLoading(true);
-    const response=await axios.post('http://localhost:3000/ai/get-review',{code});
+    const response=await axios.post('https://devgpt-pt3u.onrender.com/ai/get-review',{code});
     setReview(response.data);
     setLoading(false);
     console.log(response.data);
