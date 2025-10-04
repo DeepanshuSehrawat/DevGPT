@@ -55,7 +55,7 @@ You will also need a Google Gemini API Key. You can get one from Google AI Studi
 Installation
 Clone the repository:
 ```
-git clone [https://github.com/DeepanshuSehrawat/DevGPT.git](https://github.com/DeepanshuSehrawat/DevGPT.git)
+git clone (https://github.com/DeepanshuSehrawat/DevGPT.git)
 ```
 Navigate to the project directory:
 ```
